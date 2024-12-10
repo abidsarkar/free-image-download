@@ -1,12 +1,14 @@
+import { apikey } from "./api_key.js";
 const SearchForm = document.getElementById("searchForm");
 const SearchBox = document.getElementById("searchBox");
 const SearchResult = document.getElementById("searchResult");
 const ShowMoreBtn = document.getElementById("showMoreBtn");
 let keyword = "birds";
+
 let page = 1;
- let key = "a5d4238f515992d21f853e054a976abdc2467ea35799c7fea1e208f78e8b0644";
+let key = "your_api_key";
 async function searchImage(keyword) {
-  const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=${key}&per_page=12`;
+  const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=${apikey}&per_page=12`;
   try {
     const response = await fetch(url);
     // console.log(response);
