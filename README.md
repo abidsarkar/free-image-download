@@ -1,4 +1,4 @@
-![alt text](image.png)
+![Home page](image.png)
 ## Image Search Engine 🔍
 An Image Search Engine that allows users to search for images using the Unsplash API. Users can view images in a grid layout and download their favorites with a simple click.
 ## Features ✨
@@ -8,7 +8,7 @@ An Image Search Engine that allows users to search for images using the Unsplash
 - Load more results with a "Show More" button.
 - Interactive and user-friendly UI.
 ## Demo 🚀
-[Live Demo] (Replace may change latter)
+[Live Demo] ([https://abidsarkar.github.io/LIVE/](https://abidsarkar.github.io/LIVE/))
 
 ## Technologies Used 🛠️
 
