@@ -8,7 +8,7 @@ An Image Search Engine that allows users to search for images using the Unsplash
 - Load more results with a "Show More" button.
 - Interactive and user-friendly UI.
 ## Demo 🚀
-[Live Demo] ([https://abidsarkar.github.io/LIVE/](https://abidsarkar.github.io/LIVE/))
+[Live Demo] (([Live Demo](https://abidsarkar.github.io/free-image-download/))
 
 ## Technologies Used 🛠️
 
